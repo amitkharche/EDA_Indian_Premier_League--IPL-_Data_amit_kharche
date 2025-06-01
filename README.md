@@ -79,8 +79,8 @@ This project explores detailed match and ball-by-ball datasets from the **Indian
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/amitkharche/exploratory_data_analysis_projects_amit_kharche.git
-cd exploratory_data_analysis_projects_amit_kharche/EDA_Indian_Premier_League\ \(IPL\)_Data_amit_kharche
+git clone https://github.com/amitkharche/EDA_Indian_Premier_League--IPL-_Data_amit_kharche.git
+cd EDA_Indian_Premier_League--IPL-_Data_amit_kharche
 ````
 
 2. **(Optional) Create and activate a virtual environment:**
